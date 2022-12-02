@@ -4,3 +4,6 @@ source 'https://rubygems.org'
 ruby '2.7.4'
 
 gem 'cocoapods', '~> 1.11', '>= 1.11.2'
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
